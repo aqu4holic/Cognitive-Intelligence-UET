@@ -22,13 +22,10 @@ We provided 2 notebooks, in `working` director, `_train_v1.ipynb` and `xafe-visu
 If you want to train the model, first get the dataset from kaggle (`CUB_200_2011`), then put it in `input` directory. The structure should be like this:
 ```
 working
-├── cub2002011
-│   ├── CUB_200_2011
-│   ├── cvpr2016_cub
-│   └── segmentations
-└── multimodal-xafe
-    ├── models
-    └── simclr
+└── cub2002011
+    ├── CUB_200_2011
+    ├── cvpr2016_cub
+    └── segmentations
 ```
 
 # Overview of the repo
